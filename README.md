@@ -15,8 +15,8 @@ ORL人脸数据集共包含40个不同人的400张图像，是在1992年4月至1
 使用python运行程序，弹出窗口，点击窗口的“请选择需要识别的图片”按钮，从测试图片集中选择一张图片，再点击窗口的“运行”按钮，就会弹出识别到的训练集中的人脸照片。
 # 实验结果
 一共测试了10张人脸，识别的结果如下表：
-![iamge2](https://github.com/githubhtz/image/blob/main/3(1).png)
-![iamge3](https://github.com/githubhtz/image/blob/main/3(2).png)
+![iamge2](https://github.com/githubhtz/image/blob/main/2.png)
+![iamge3](https://github.com/githubhtz/image/blob/main/3.png)
 ![iamge4](https://github.com/githubhtz/image/blob/main/4.png)
 可以看出识别成功率大约为80%，效果一般。
 # Reference Code
